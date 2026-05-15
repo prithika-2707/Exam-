@@ -1,2 +1,3 @@
 Exam Demo Repository
-Initial login module
+
+SCRUM-1 Initial login module setup
